@@ -27,7 +27,7 @@ body {
   overflow-x: hidden;
   background:
     linear-gradient(rgba(248, 243, 234, 0.84), rgba(239, 228, 208, 0.9)),
-    url('IGREJA.JPEG') center top / cover fixed;
+    url('https://images.unsplash.com/photo-1438032005730-c779502df39b?auto=format&fit=crop&w=1800&q=80') center top / cover fixed;
 }
 
 a {
@@ -85,7 +85,7 @@ a {
   overflow: hidden;
   background:
     linear-gradient(90deg, rgba(40, 24, 10, 0.64), rgba(52, 31, 12, 0.25) 55%, rgba(52, 31, 12, 0.18)),
-    url('IGREJA.JPEG') center/cover;
+    url('https://images.unsplash.com/photo-1438032005730-c779502df39b?auto=format&fit=crop&w=1800&q=80') center/cover;
   box-shadow: var(--shadow);
 }
 
